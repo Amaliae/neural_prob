@@ -13,7 +13,7 @@ LSTM  network with Input, LSTM and TimeDistributed layers was trained on collect
 
 
 To reveal whether the represantation of auditory stimulus varies in different tasks , the Bayesian network with two fully connected layers was created. The goal of analysis was to classify the evoked activity of auditory cortex into localisation and pitch dicrimination tasks. 
-For that reason neurons responding to pitch stimulus were indentified in cue trials of pitch discrimination blocks then the evoked  activity of that neurons was extracted for 'le_lo_pw' and 'le_low_lc' trials. After Bayesian inferece and posterior approximation the evaluation of Bayesian Network model on train data was performed and the model demonstrated 82% accuracy with 'Binary accuracy' metric. 
+For that reason neurons responding to pitch stimulus were indentified in cue trials of pitch discrimination blocks then the evoked  activity of that neurons was extracted for 'le_lo_pw' and 'le_low_lc' trials. After Bayesian inference and  approximation of posteriors the evaluation of Bayesian Network model on train data was performed and the model demonstrated 82% accuracy with 'Binary accuracy' metric. 
 
 
 
